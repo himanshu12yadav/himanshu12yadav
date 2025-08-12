@@ -40,9 +40,19 @@ I'm a passionate software engineer from Lucknow, India, specializing in building
 
 ### 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu12yadav&show_icons=true&theme=radical)
+<div align="center">
+  
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu12yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu12yadav&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu12yadav&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu12yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 📈 Contribution Graph
+
+![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu12yadav&theme=tokyo-night&hide_border=true)
 
 ### 🔨 Featured Projects
 
@@ -56,10 +66,25 @@ I'm a passionate software engineer from Lucknow, India, specializing in building
 - Available on Shopify App Store
 - **Tech:** Remix, React, Shopify GraphQL API
 
-#### 📊 [Retail Warehouse Solution](https://github.com/himanshu12yadav/warehouse-solution)
-- Custom WMS integration handling 50,000+ SKUs
-- Real-time webhooks with Redis queue
-- **Tech:** Node.js, Shopify Admin API, Redis
+#### 📊 [Inventory Auto App](https://github.com/himanshu12yadav/inventory-auto-app)
+- Automated inventory management system
+- Real-time tracking and updates
+- **Tech:** JavaScript, Node.js
+
+#### 💰 [Expense Tracker App](https://github.com/himanshu12yadav/expense-app)
+- Personal finance management tool
+- Budget tracking and expense categorization
+- **Tech:** JavaScript, React
+
+#### 🌍 [Countries Explorer](https://github.com/himanshu12yadav/final-countries)
+- Interactive country information dashboard
+- REST API integration
+- **Tech:** JavaScript, HTML5, CSS3
+
+#### 📚 [JavaScript Learning Projects](https://github.com/himanshu12yadav/Javascript-beginner-project)
+- Collection of beginner-friendly JavaScript exercises
+- Educational project showcase
+- **Tech:** Vanilla JavaScript
 
 ### 🎓 Education & Certifications
 
@@ -84,6 +109,7 @@ I'm a passionate software engineer from Lucknow, India, specializing in building
 - 💼 **LinkedIn:** [linkedin.com/in/himanshu-yadav-12jan](https://linkedin.com/in/himanshu-yadav-12jan)
 - 🐱 **GitHub:** You're already here!
 - 📍 **Location:** Lucknow, Uttar Pradesh, India
+- 📱 **Phone:** +91-7905927588
 
 ---
 
