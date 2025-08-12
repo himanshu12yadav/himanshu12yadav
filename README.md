@@ -44,7 +44,7 @@ I'm a passionate software engineer from Lucknow, India, specializing in building
   
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu12yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=himanshu12yadav&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshu12yadav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu12yadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
